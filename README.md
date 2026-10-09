@@ -58,6 +58,12 @@ Style Rules         →  What writing style is it?
        ↓
 Results displayed on dashboard
 
+---
+
+## Live Demo
+https://ai-writing-style-detector.streamlit.app
+
+---
 
 ## 🗺️ Future Improvements
 
